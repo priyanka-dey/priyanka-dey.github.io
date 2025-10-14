@@ -6,5 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include http://huihanlhh.github.io/files/Huihan_Li_CV.pdf %}
+{% include http://priyanka-dey.github.io/files/CV.pdf %}
