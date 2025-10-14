@@ -2,6 +2,7 @@
 layout: home
 title: "About Me"
 author_profile: true
+show_posts: false
 permalink: /
 hide_title: true   # this hides the auto-generated heading
 ---
