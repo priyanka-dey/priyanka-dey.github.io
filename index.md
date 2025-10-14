@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "About Me"
-show_sidebar: true
+sidebar: true
 permalink: /
 hide_title: true
 ---
