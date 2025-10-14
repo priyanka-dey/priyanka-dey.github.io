@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Priyanka Dey
 ---
 Hi, I am a 3rd year Computer Science PhD student at the University of Southern California. I am very fortunate to be part of the HUMANs Lab, advised by Professors Emilio Ferrara and the LIME Lab, advised by Jieyu Zhao. Previously, I received my Master's in Computer Science from the University of Illinois: Urbana Champaign, where I was a member of the TiMAN lab, advised by Professor ChengXiang Zhai. I also received my Bachelor's in Statistics and Computer Science from the University of Illinois: Urbana Champaign.
