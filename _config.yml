@@ -55,7 +55,6 @@ comments:
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
     theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     strict               : # 1 for enabled, 0 for disabled (default)
-    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
     lang                 : # "en" (default)
     lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
@@ -127,7 +126,7 @@ author:
       url: "https://scholar.google.com/citations?user=HXGCBkwAAAAJ&hl=en"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/docs/Priyanka-Dey-CV.pdf"
+      url: "/assets/docs/CV.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/priyankadey19/"
