@@ -6,10 +6,7 @@ show_sidebar: true
 permalink: /
 ---
 
-
 ---
-### Research Interests
-
 I am broadly interested in making large language models more culturally aware and aligned with humans. My research focuses on understanding how LLMs can adapt to different cultural norms, values, and preferences without falling into stereotypes. I am also exploring how models can be personalized to align with user's traits, values, and goals. A key part of my work is developing methods to evaluate human and cultural alignment, including new benchmarks that combine psychological traits, cultural differences, and interaction data.
 
 I’m always eager to explore new research directions. If our interests align, please feel free to reach out — I’d love to chat. I’m also happy to offer guidance on graduate school applications and share my experience navigating the process.
