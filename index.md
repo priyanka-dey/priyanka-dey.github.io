@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: home
 title: "About Me"
-show_sidebar: true
+author_profile: true
 permalink: /
 hide_title: true   # this hides the auto-generated heading
 ---
