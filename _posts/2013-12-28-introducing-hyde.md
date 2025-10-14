@@ -2,9 +2,12 @@
 layout: post
 title: Priyanka Dey
 ---
-Hi, I am a 3rd year Computer Science PhD student at the University of Southern California. I am very fortunate to be advised by Professors Emilio Ferrara and Jieyu Zhao. Previously, I earned a Master’s in Computer Science and a Bachelor’s in Computer Science and Statistics from the University of Illinois at Urbana–Champaign.
+Hi, I am a 3rd year Computer Science PhD student at the University of Southern California. I am very fortunate to be advised by Professors Emilio Ferrara and Jieyu Zhao. Previously, I was a Computer Science Master's and Computer Science and Statistics Bachelor's student at the University of Illinois: Urbana Champaign.
 
-### Built on Poole
+### Research Interests
+
+I am broadly interested in making large language models more culturally aware and aligned with humans. My research focuses on understanding how LLMs can adapt to different cultural norms, values, and preferences without falling into stereotypes. I am also exploring how models can be personalized to align with user's traits, values, and goals. A key part of my work is developing methods to evaluate human and cultural alignment, including new benchmarks that combine psychological traits, cultural differences, and interaction data.
+
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 

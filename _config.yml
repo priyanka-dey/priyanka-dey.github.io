@@ -7,9 +7,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            
+title:            't'
 tagline:          'A Jekyll theme'
-description:      ''
+description:      't'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
