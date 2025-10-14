@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Priyanka Dey
 ---
-
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi, I am a 3rd year Computer Science PhD student at the University of Southern California. I am very fortunate to be advised by Professors Emilio Ferrara and Jieyu Zhao. Previously, I earned a Master’s in Computer Science and a Bachelor’s in Computer Science and Statistics from the University of Illinois at Urbana–Champaign.
 
 ### Built on Poole
 
@@ -32,6 +31,6 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 
 ### Download
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
+Hyde is developed on and hosted with GitHub. Head to the `<a href="https://github.com/poole/hyde">`GitHub repository`</a>` for downloads, bug reports, and features requests.
 
 Thanks!
