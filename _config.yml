@@ -119,15 +119,20 @@ author:
   location         : "Los Angeles, CA"
   email            : "deyp@usc.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "deyp@usc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://priyanka-dey.github.io/"
     - label: "Google Scholar"
       icon: "fab fa-google-scholar"
       url: "https://scholar.google.com/citations?user=HXGCBkwAAAAJ&hl=en"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/docs/Priyanka-Dey-CV.pdf"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/priyankadey19/"
+
+
 
 
 # Reading Files
