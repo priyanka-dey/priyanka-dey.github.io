@@ -17,7 +17,7 @@ I’m always eager to explore new research directions. If our interests align, p
 ### News
 
 * Oct. 2025: Passed my PhD Quals; I'm officially a PhD candidate!
-* Oct. 2025: New preprint "GRAVITY: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences" released!
+* Oct. 2025: New preprint "[GRAVITY: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences](https://arxiv.org/abs/2510.11952)" released!
 * Aug. 2025: Our paper "[Can LLMs Express Personality Across Cultures? Introducing CulturalPersonas for Evaluating Trait Alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:WF5omc3nYNoC)" was accepted to EMNLP '25 Findings, see you in Suzhou!
 * April 2025: New preprint "[Can LLMs Grasp Implicit Cultural Values? Benchmarking LLMs&#39; Metacognitive Cultural Intelligence with CQ-Bench](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:eQOLeE2rZwMC)" released!
 * Oct. 2024: Awarded the 2025 Capital One Fellowship Award!
