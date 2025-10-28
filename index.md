@@ -6,7 +6,7 @@ show_posts: false
 permalink: /
 hide_title: true   # this hides the auto-generated heading
 ---
-Hi, I am a 3rd year Computer Science PhD student at the University of Southern California. I am very fortunate to be part of the [HUMANs Lab](http://www.emilio.ferrara.name/), advised by Professor [Emilio Ferrara](https://bsky.app/profile/emilioferrara.bsky.social), and the [LIME Lab](https://jyzhao.net/lab.html), advised by [Jieyu Zhao](https://jyzhao.net/). Previously, I earned a Master’s in Computer Science from the University of Illinois at Urbana–Champaign, where I was a member of the [TiMAN lab](https://timan.cs.illinois.edu/ir/), advised by Professor [ChengXiang Zhai](https://czhai.cs.illinois.edu/) and collaborating with Professor [Roxana Girju](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/girju-roxana.html). I also received my Bachelor's in Statistics and Computer Science from the University of Illinois: Urbana Champaign.
+Hi, I am a 3rd year Computer Science PhD candidate at the University of Southern California. I am very fortunate to be part of the [HUMANs Lab](http://www.emilio.ferrara.name/), advised by Professor [Emilio Ferrara](https://bsky.app/profile/emilioferrara.bsky.social), and the [LIME Lab](https://jyzhao.net/lab.html), advised by [Jieyu Zhao](https://jyzhao.net/). Previously, I earned a Master’s in Computer Science from the University of Illinois at Urbana–Champaign, where I was a member of the [TiMAN lab](https://timan.cs.illinois.edu/ir/), advised by Professor [ChengXiang Zhai](https://czhai.cs.illinois.edu/) and collaborating with Professor [Roxana Girju](https://www.mccormick.northwestern.edu/research-faculty/directory/affiliated/girju-roxana.html). I also received my Bachelor's in Statistics and Computer Science from the University of Illinois: Urbana Champaign.
 
 ### Research Interests
 
@@ -16,6 +16,7 @@ I’m always eager to explore new research directions. If our interests align, p
 
 ### News
 
+* Oct. 2025: Passed my PhD Quals; I'm officially a PhD candidate!
 * Oct. 2025: New preprint "GRAVITY: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences" released!
 * Aug. 2025: Our paper "[Can LLMs Express Personality Across Cultures? Introducing CulturalPersonas for Evaluating Trait Alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:WF5omc3nYNoC)" was accepted to EMNLP '25 Findings, see you in Suzhou!
 * April 2025: New preprint "[Can LLMs Grasp Implicit Cultural Values? Benchmarking LLMs&#39; Metacognitive Cultural Intelligence with CQ-Bench](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:eQOLeE2rZwMC)" released!
