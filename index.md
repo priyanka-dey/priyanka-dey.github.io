@@ -16,6 +16,7 @@ I’m always eager to explore new research directions. If our interests align, p
 
 ### News
 
+* "[GRAVITY](https://arxiv.org/abs/2510.11952)" was accepted to EACL 2026 Main Conference, see you in Morroco! 
 * Oct. 2025: Passed my PhD Quals; I'm officially a PhD candidate!
 * Oct. 2025: New preprint "[GRAVITY: A Framework for Personalized Text Generation via Profile-Grounded Synthetic Preferences](https://arxiv.org/abs/2510.11952)" released!
 * Aug. 2025: Our paper "[Can LLMs Express Personality Across Cultures? Introducing CulturalPersonas for Evaluating Trait Alignment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:WF5omc3nYNoC)" was accepted to EMNLP '25 Findings, see you in Suzhou!
@@ -23,7 +24,7 @@ I’m always eager to explore new research directions. If our interests align, p
 * Oct. 2024: Awarded the 2025 Capital One Fellowship Award!
 * Sep. 2024: Our work "[Coordinated Activity Modulates the Behavior and Emotions of Organic Users: A Case Study on Tweets About the Gaza Conflict](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:YsMSGLbcyi4C)" received best PhD poster at ShowCAIS '24!
 * Feb. 2024: Our paper "[Coordinated Activity Modulates the Behavior and Emotions of Organic Users: A Case Study on Tweets About the Gaza Conflict](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HXGCBkwAAAAJ&citation_for_view=HXGCBkwAAAAJ:YsMSGLbcyi4C)" was accepted to the Web Conference '24, see you in Singapore!
-* Aug. 2023: Starting my PhD journey at USC!
+* Aug. 2023: Started my PhD journey at USC!
 * Feb. 2023: Our work "[Investigating Stylistic Profiles for the Task of Empathy Classification in Medical Narrative Essays](https://arxiv.org/abs/2302.01839)" was accepted to GURT SyntaxFest '23, see you in DC!
 * Dec. 2022: Our paper "[Enriching Deep Learning with Frame Semantics for Empathy Classification in Medical Narrative Essays](https://aclanthology.org/2022.louhi-1.23/)" was accepted to EMNLP '23 (LOUHI Workshop)!
 
